@@ -1,0 +1,34 @@
+Variaveis Numeros
+
+
+|5|   var n1 = 5
+|8.5| var n2 = 8.5
+
+
+Variaveis palavras e tipos de aspas que pode usar
+
+|javascript|   var s1 = "javascript"
+|casa|   	   var s2 = 'casa'
+|terreno|      var s1 = `terreno`
+
+# typeof n    "n" é a variavel podendo ser "number" ou "string"
+ exmplo = var n = 200
+
+
+# var nome = window.prompt ('qual é seu mome') //vai perguntar o nome
+  windows.alert(' É um prazer em te conhecer, ' + nome + '!')//concatenação
+
+
+#//alert("AP2 - JAVASCRIPT"); //vai abrir janela ao carregar a pagina
+
+Operadores
+
+primeio não, depois E, depois OU
+
+
+
+passando para valor moeda real
+variavel.toLocaleString('pt-BR',{style: 'currency', currency:'BRL'})
+${multi.toFixed(2).replace('.',',')}
+
+
